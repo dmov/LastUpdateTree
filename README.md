@@ -43,3 +43,14 @@ Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
 [docs:plugin-description]: https://plugins.jetbrains.com/docs/intellij/plugin-user-experience.html#plugin-description-and-presentation
+
+---
+## License
+
+MIT © [dmov](https://github.com/dmov) -- see the [LICENSE](./LICENSE) file for details
+
+---
+
+### Third-party libraries
+
+- **Google Guava** -- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)

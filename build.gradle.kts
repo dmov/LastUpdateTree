@@ -13,5 +13,7 @@ dependencies {
     intellijPlatform {
         intellijIdea("2025.2.6.2")
         testFramework(TestFrameworkType.Platform)
+
+        bundledPlugin("Git4Idea")
     }
 }
